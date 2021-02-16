@@ -1,2 +1,4 @@
-*.go linguist-language=Golang
-*.mod linguis-language=Golang
+*.go linguist-language=Go
+*.mod linguist-language=Go
+*.coq linguist-language=Go
+*.v linguist-language=Go
